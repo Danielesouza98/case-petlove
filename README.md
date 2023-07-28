@@ -11,7 +11,7 @@ A Petlove me propôs esse desafio para conhecer um pouco mais sobre a minha form
 3. Criar um relatório em qualquer ferramenta de visualização de dados.
 
 #### Massa de dados
-Foi disponibilizada uma massa de dados contendo informações sobre os clientes, os arquivos foram fornecidos no formato csv e se encontram na pasta 
+Foi disponibilizada uma massa de dados contendo informações sobre os clientes, os arquivos foram fornecidos no formato csv.
 
 
 Toda a infraestrutura do projeto foi desenvolvida no jupyter notebook com pandas.
